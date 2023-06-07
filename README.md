@@ -46,9 +46,28 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+#### LOAD STL FILE
+import the stl file of the 3d model into cura software.
 
-### Name:
-### Register Number:
+![o1](https://github.com/LATHIKESHWARAN/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119393556/a2838b1d-ae24-4551-b94a-bff768f679b7)
+
+#### ORIENTATION
+Proper orientation of object may reduce the use of support material thereby reduces the use of cost and time spend during printing process.Placing part of model with more surface area lie on print bed reduces the use of support material.
+
+![o2](https://github.com/LATHIKESHWARAN/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119393556/641f5569-dad1-4d8c-b0b7-456956dc79f4)
+#### SCALING
+scaling is helpful in increasing and reducing the product size along x,y,z axes.
+
+![o3](https://github.com/LATHIKESHWARAN/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119393556/d67ebd18-42c0-49ba-8a22-ffd7bceacc09)
+#### MOVE
+move option is used change the print position of the product to be printed on the print bed.
+
+![o4](https://github.com/LATHIKESHWARAN/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119393556/fcd38fad-b4e5-4fa5-a962-5c047e61f76b)
+#### SLICING AND PREVEIWING THE MODEL
+![o5](https://github.com/LATHIKESHWARAN/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119393556/9d839484-9bfa-4b5a-8ad6-2536b08177fa)
+
+### Name: LATHIKESHWARAN J
+### Register Number: 212222230072
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
